@@ -52,3 +52,11 @@ int main(){
 | :----: | :----: | :----: |
 | Col1 | Col2 | Col3 |
 | Col4 | Col5 | Col6 |
+
+<details>
+  <summary> Doing some Important stuff </summary>
+  
+  -Hey
+  -dude
+  -Ozymandias
+</details>
