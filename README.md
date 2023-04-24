@@ -42,3 +42,6 @@ int main(){
 
 
 [![Call of Duty WW2 image](./Screenshot_(294).png)](https://open.spotify.com/)
+
+- [ ] Tasl1
+- [x] Task2
