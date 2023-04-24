@@ -56,7 +56,7 @@ int main(){
 <details>
   <summary> Doing some Important stuff </summary>
   
-  -Hey
-  -dude
-  -Ozymandias
+-Hey
+-dude
+-Ozymandias
 </details>
