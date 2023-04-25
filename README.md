@@ -23,9 +23,23 @@ But above all of this I am just trying to figure out this cosmos one book at a t
 
 ## Course @IIT Goa
 
-- [**CS211** [Computer Architecture](https://iitgoa.ac.in/computer-science-about/) *Prof. Sharad Sinha*]
-- [**CS212** [Computer Networks](https://iitgoa.ac.in/computer-science-about/) *Prof. Neha Karanjkar*]
-- **CS222** [Algorithm Design](https://iitgoa.ac.in/computer-science-about/) *Prof. Arpita Korwar & Prof. Rahul CS*]
+- **CS211** [Computer Architecture](https://iitgoa.ac.in/computer-science-about/) *Prof. Sharad Sinha*
+- **CS212** [Computer Networks](https://iitgoa.ac.in/computer-science-about/) *Prof. Neha Karanjkar*
+- **CS222** [Algorithm Design](https://iitgoa.ac.in/computer-science-about/) *Prof. Arpita Korwar & Prof. Rahul CS*
+
+---
+
+
+## Hobbies and Interests
+
+I believe myself to be a *bibliophile* and I am also a passionate learner.
+
+**The three pillars of my foundation are:-**
+1. Books
+1. Music
+1. Movies and Video Games
+
+I spend my time coding and other productive stuff when I am not involved in above activities. 
 
 ---
 
