@@ -1,62 +1,31 @@
-# How u doin'?
+# Profile Page
 
-~~*Table of contents:*~~
+## About Me
+
+Hey! I am **Rohan Manro** and I am in CSE branch. 
+![My picture](./2104228.jpg)
+
+I am a Computer Enthusiast with special interest in Machine Learning and Cybersecuriy. I am looking forward to collaborate on variou projects, and believe myself to be a fast learner.
+
+But above all of this I am just trying to figure out this cosmos one book at a time.
+
 ---
-**Yo Dude!**
 
-1. [one](#not-doing-much)
-1. [three](https://leetcode.com/rookycipher/)
-1. two
+## Education
 
-Become sudo useer: `sudo su`
-
-```cpp
-#include<iostream>
-
-int main(){
-  return 0;
-}
-```
-
-> We grew up, he thought. We didn't think it will happen to us, not to us, not then. But it did and if I go in there it will be true. 
->
-> --IT by Stephen King
-
-- [one](#how-u-doin)
-- two
-- three
-
-> We grew up, he thought. We didn't think it will happen to us, not to us, not then. But it did and if I go in there it will be true. 
-
-> --IT by Stephen King
-
-
-
-
-
-
-
-
-# Not doing much
-
-
-
-[![Call of Duty WW2 image](./Screenshot_(294).png)](https://open.spotify.com/)
-
-- [ ] Tasl1
-- [x] Task2
-
-
-
-| Row1 | Row2 | Row3 |
+| Academic Year | Standard | School Name |
 | :----: | :----: | :----: |
-| Col1 | Col2 | Col3 |
-| Col4 | Col5 | Col6 |
+| Passed Out | Secondary Education | D.A.V. |
+| Passed Out | Senior Secondary Education | Jr. College |
+| 2021 | B'Tech 2nd Year | IIT Goa |
 
-<details>
-  <summary> Doing some Important stuff </summary>
-  
-- Hey
-- dude
-- Ozymandias
-</details>
+---
+
+## Course @IIT Goa
+
+- [**CS211** [Computer Architecture](https://iitgoa.ac.in/computer-science-about/) *Prof. Sharad Sinha*]
+- [**CS212** [Computer Networks](https://iitgoa.ac.in/computer-science-about/) *Prof. Neha Karanjkar*]
+- **CS222** [Algorithm Design](https://iitgoa.ac.in/computer-science-about/) *Prof. Arpita Korwar & Prof. Rahul CS*]
+
+---
+
